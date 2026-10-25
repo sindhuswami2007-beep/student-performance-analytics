@@ -1,0 +1,77 @@
+Student data loaded successfully.
+Total records: 20
+Columns: Student_ID, Name, Department, Python_Marks, Maths_Marks, Statistics_Marks, Attendance, Total_Marks, Average_Marks, Grade, Result
+
+========== STUDENT PERFORMANCE ANALYTICS ==========
+1. Show complete student report
+2. Show class performance summary
+3. Show pass/fail statistics
+4. Show subject-wise analysis
+5. Show top performers
+6. Show department-wise analysis
+7. Show complete analysis
+8. Exit
+Enter your choice (1-8): 
+--- COMPLETE STUDENT REPORT ---
+ Student_ID          Name Department  Total_Marks  Average_Marks Grade Result  Attendance
+        101  Aarav Sharma       AIML          234          78.00     B   Pass          88
+        102  Ananya Verma       AIML          271          90.33    A+   Pass          95
+        103   Rohan Singh        CSE          206          68.67     C   Pass          80
+        104   Sneha Patel        CSE          251          83.67     A   Pass          91
+        105  Aditya Kumar       AIML          115          38.33     F   Fail          72
+        106   Priya Gupta         DS          230          76.67     B   Pass          86
+        107  Kunal Mishra         DS          118          39.33     F   Fail          68
+        108   Ishita Jain       AIML          276          92.00    A+   Pass          97
+        109   Vivek Yadav        CSE          176          58.67     D   Pass          75
+        110      Neha Roy         DS          244          81.33     A   Pass          89
+        111     Rahul Das       AIML          129          43.00     E   Pass          64
+        112   Simran Kaur        CSE          264          88.00     A   Pass          94
+        113 Mohit Chauhan         DS          158          52.67     D   Pass          70
+        114   Pooja Mehta       AIML          215          71.67     B   Pass          83
+        115    Arjun Nair        CSE           98          32.67     F   Fail          61
+        116   Kriti Sinha         DS          240          80.00     A   Pass          92
+        117     Harsh Raj       AIML          183          61.00     C   Pass          77
+        118  Tanya Kapoor        CSE          251          83.67     A   Pass          90
+        119  Nikhil Joshi         DS          151          50.33     D   Pass          66
+        120   Riya Saxena       AIML          282          94.00    A+   Pass          98
+
+--- CLASS PERFORMANCE SUMMARY ---
+Highest Average : Riya Saxena (94.0%)
+Lowest Average  : Arjun Nair (32.67%)
+Class Average   : 68.20%
+
+--- PASS / FAIL STATISTICS ---
+Total Students : 20
+Passed         : 17
+Failed         : 3
+Pass Percentage: 85.0%
+
+--- SUBJECT-WISE PERFORMANCE ---
+Python     -> Average: 66.90, Highest: 95, Lowest: 29
+Maths      -> Average: 69.60, Highest: 96, Lowest: 36
+Statistics -> Average: 68.10, Highest: 94, Lowest: 30
+
+--- TOP 5 PERFORMERS ---
+ Student_ID         Name Department  Average_Marks Grade
+        120  Riya Saxena       AIML          94.00    A+
+        108  Ishita Jain       AIML          92.00    A+
+        102 Ananya Verma       AIML          90.33    A+
+        112  Simran Kaur        CSE          88.00     A
+        104  Sneha Patel        CSE          83.67     A
+
+--- DEPARTMENT-WISE AVERAGE ---
+Department
+AIML    71.04
+CSE     69.23
+DS      63.39
+
+========== STUDENT PERFORMANCE ANALYTICS ==========
+1. Show complete student report
+2. Show class performance summary
+3. Show pass/fail statistics
+4. Show subject-wise analysis
+5. Show top performers
+6. Show department-wise analysis
+7. Show complete analysis
+8. Exit
+Enter your choice (1-8): Project closed successfully.
